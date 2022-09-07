@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * prompt - writes a prompt
  *
